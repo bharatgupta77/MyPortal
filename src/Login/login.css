@@ -1,0 +1,50 @@
+.cont-parent{
+    width : 60% !important;
+    opacity: 0.90;
+    margin-top: 10%;
+}
+
+.row1{
+    height: 100%;
+}
+
+.col1{ 
+    background-color: #ffffff;
+}
+
+.col2{
+    background-color:  #DA1A1A;
+}
+
+.img1{
+    width:25%;
+    height :10%;
+}
+
+.img2{
+    width:80%;
+}
+
+.btn1{
+    width: 100%;
+    text-align: center;
+    margin : 5% auto !important;
+}
+
+.line{
+    display:block; 
+    margin-left:3px;
+    margin-right:22px;
+}
+.line p{
+    font-size:16px; 
+    text-align:center; 
+    border-bottom:1px solid white; 
+    position:relative; 
+}
+.line p span {
+     background-color: #DA1A1A; 
+     position: relative; 
+     top: 10px; 
+     padding: 0 10px;
+    }
