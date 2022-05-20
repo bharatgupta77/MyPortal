@@ -13,7 +13,7 @@ function Login() {
                 <img className="img1 mt-4" src={logo}></img>
                 <h4>HSBC</h4>
                 <span className="line mx-3 mt-2" style={{width:"90%"}}>
-                    <p style={{borderBottom : "1px solid #D3D3D3"}} className="mt-3"><span style={{backgroundColor : "white"}}>Together we thrive</span></p>
+                    <p style={{borderBottom : "1px solid rgba(211, 211, 211, 0.7)"}} className="mt-3"><span style={{backgroundColor : "rgba(255, 255, 255, .8)"}}>Together we thrive</span></p>
                 </span>
             </div>
 

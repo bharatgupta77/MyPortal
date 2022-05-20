@@ -1,6 +1,6 @@
 .cont-parent{
     width : 60% !important;
-    opacity: 0.90;
+    opacity: 0.95;
     margin-top: 10%;
 }
 
@@ -9,11 +9,11 @@
 }
 
 .col1{ 
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, .98);
 }
 
 .col2{
-    background-color:  #DA1A1A;
+    background-color:  rgba(218, 26, 26, 0.95);
 }
 
 .img1{
@@ -39,11 +39,11 @@
 .line p{
     font-size:16px; 
     text-align:center; 
-    border-bottom:1px solid white; 
+    border-bottom:1px solid rgba(255, 255, 255, 0.5); 
     position:relative; 
 }
 .line p span {
-     background-color: #DA1A1A; 
+     background-color: rgba(218, 26, 26, 1); 
      position: relative; 
      top: 10px; 
      padding: 0 10px;
